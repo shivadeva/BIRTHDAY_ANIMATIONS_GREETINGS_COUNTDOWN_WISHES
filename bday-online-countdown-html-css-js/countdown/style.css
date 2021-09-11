@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Patrick+Hand&family=Play&display=swap');
+
+.font-gb {
+    font-family: 'Great Vibes', sans-serif;
+}
+.font-ph {
+    font-family: 'Patrick Hand', sans-serif;
+}
+.font-play {
+    font-family: 'Play', sans-serif;
+}
+.move-middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.show-on-date {
+    display: none;
+}
